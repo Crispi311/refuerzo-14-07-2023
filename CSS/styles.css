@@ -1,0 +1,14 @@
+.colred-sectiom1{
+    padding-top: 40px;
+    background-color: rgb(248,167,167);
+    height: 350px;
+    overflow:hidden;
+}
+.divColumns{
+    margin-top: 30px;
+}
+.phoneimage{
+    margin-top: 40px;
+    width: 200px;
+    transform: rotate(29deg);
+}
